@@ -51,7 +51,6 @@ Power BI (for visualizations)
 Clone the repository:
 
 git clone https://github.com/AchrafSR24/Startup-Expansion.git
-cd Startup-Expansion
 
 Install dependencies:
 
